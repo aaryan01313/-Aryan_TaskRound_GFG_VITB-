@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.navbar{
+    height: 110px;
+    background-color: rgba(97, 149, 74, 0.889);
+    color: rgba(103, 176, 71, 0.889);
+    display: flex;
+    align-items: left
+    ;
+    justify-content: space-evenly;
+}
+
+.nav-logo{
+    height: 37px;
+    width: 10000px;
+}
+.logo{
+    background-image: url("ASSETS/GFG logo.webp");
+    height: 300%;
+    width: 200px;
+    background-size: cover;
+}
